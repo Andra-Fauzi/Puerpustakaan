@@ -1,0 +1,18 @@
+.Home {
+}
+
+.Buku-Buku {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+.Buku {
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.Buku img {
+    border: 3px solid white;
+    border-radius: 5px;
+}
